@@ -6,7 +6,8 @@
   Junior Software Developer from Izmir, Turkey.
 </p>
 
-- 🔭 I’m currently working as a Software Developer in the field of Cyber Security.
+- 🔭 I’m currently working as a Software Developer in the field of Cyber Security & Network.
+- 👨‍ I’m currently using Golang and Python languages, with Microservice Architecture.
 - 🌱 I’m currently learning AWS & Cloud Technologies.
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and EDA.
 - 📫 You can reach me from: LinkedIn / Gmail
